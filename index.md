@@ -12,12 +12,11 @@ itsn1x.github.io
 ---
 
 #### Today:
-<details><summary>Hear more...</summary><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dear <a href="https://twitter.com/TryGhost?ref_src=twsrc%5Etfw">@TryGhost</a> <br><br>Are you dead or am <a href="https://twitter.com/search?q=%24i&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$i</a> dead?<a href="https://t.co/sjOcQUyRWO">https://t.co/sjOcQUyRWO</a> :( <br>Bring a paramedic please I&#39;m dropping pulse!<a href="https://twitter.com/hashtag/day8049?src=hash&amp;ref_src=twsrc%5Etfw">#day8049</a> <a href="https://t.co/YkTsNCkBPg">pic.twitter.com/YkTsNCkBPg</a></p>&mdash; HELP me! @tryGHOST | Thanks, @NAMECHEAP (@itsN1X) <a href="https://twitter.com/itsN1X/status/1048154539742846977?ref_src=twsrc%5Etfw">October 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<details><summary>Hear more...</summary><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dear <a href="https://twitter.com/TryGhost?ref_src=twsrc%5Etfw">@TryGhost</a> <br><br>Are you dead or am <a href="https://twitter.com/search?q=%24i&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$i</a> dead?<a href="https://t.co/sjOcQUyRWO">https://t.co/sjOcQUyRWO</a> :( <br>Bring a paramedic please I&#39;m dropping pulse!<a href="https://twitter.com/hashtag/day8049?src=hash&amp;ref_src=twsrc%5Etfw">#day8049</a> <a href="https://t.co/YkTsNCkBPg">pic.twitter.com/YkTsNCkBPg</a></p>&mdash; HELP me! @tryGHOST | Thanks, @NAMECHEAP (@itsN1X) <a href="https://twitter.com/itsN1X/status/1048154539742846977?ref_src=twsrc%5Etfw">October 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
-So, for the interims, check out the 'old(new?) homepage.
-# [`HOME`](/home)
-###### %%% Sadly coded by Luser, N1X - Day#8049. %%%
-#### Later, Today:
+<h1>So, for the interims, check out the 'old(new?) <a href=/homepage>HOMEPAGE</a>.</h1>
+%%% Sadly coded by Luser, N1X - Day#8049. %%%
+<h4>Later, Today:</h4>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meanwhile, out of no random where, we got <a href="https://twitter.com/hashtag/Trending?src=hash&amp;ref_src=twsrc%5Etfw">#Trending</a> on <a href="https://twitter.com/hashtag/Git?src=hash&amp;ref_src=twsrc%5Etfw">#Git</a> ~.`<br><br>[<a href="https://twitter.com/hashtag/Day8049?src=hash&amp;ref_src=twsrc%5Etfw">#Day8049</a>] (gith broke, later) <a href="https://t.co/hmBk4BPCsx">pic.twitter.com/hmBk4BPCsx</a></p>&mdash; HELP me! @tryGHOST | Thanks, @NAMECHEAP (@itsN1X) <a href="https://twitter.com/itsN1X/status/1048182867983925248?ref_src=twsrc%5Etfw">October 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></details>
 
 ---
