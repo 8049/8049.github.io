@@ -1,3 +1,5 @@
+Please see the alt-[`HOMEPAGE`](/homepage). I'm sorry, too.
+
 # Tough Day
 Thanks for support, Alexander Mikhaylovskiy
 
